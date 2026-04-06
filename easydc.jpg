@@ -2,11 +2,14 @@
 	"urls": [
 		{
 			"name": "公众号：Easy的分享",
-			"url": "http://www.饭太硬.net/tv"
+			"url": "https://gh-proxy.com/raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"
 		},
-
+		{
+			"name": "EasyTV",
+			"url": "https://gh-proxy.com/raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"
+		},
         {
-            "name": "cs | 4K和短剧",
+            "name": "cs4k",
             "url": "https://gitee.com/NBPA/love/raw/master/cs4K.json"
         }, 
 		{
